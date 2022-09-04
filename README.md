@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Razvan Cristea
 - 👀 I’m interested in any AI based projects
-- 🌱 I’m currently learning about different application of Neural Networks
+- 🌱 I’m currently learning about different applications of Neural Networks
 - 💞️ I’m looking to collaborate on Python-based projects of any kind
 - 📫 How to reach me -> cristearazvan81@gmail.com
 
